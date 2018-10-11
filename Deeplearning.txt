@@ -1,0 +1,10 @@
+https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+https://keras.io/
+https://www.youtube.com/watch?v=CcKf-iZ8umk
+https://www.youtube.com/watch?v=F15TAUJkZ0Q
+https://medium.com/@ab9.bhatia/set-up-gpu-accelerated-tensorflow-keras-on-windows-10-with-anaconda-e71bfa9506d1
+https://research.wmz.ninja/articles/2017/01/configuring-gpu-accelerated-keras-in-windows-10.html
+https://medium.com/@raza.shahzad/setting-up-tensorflow-gpu-keras-in-conda-on-windows-10-75d4fd498198
+https://www.tensorflow.org/install/pip
+https://stackoverflow.com/questions/9546324/adding-directory-to-path-environment-variable-in-windows
+https://github.com/antoniosehk/keras-tensorflow-windows-installation/tree/3f8e22096c95737355cd6a90bac053b73f9689b0
